@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,oversea.alphatvapp.top,Emby Proxy // Alpha海外服 Emby
 IP-CIDR,140.83.59.29/32,Emby Proxy,no-resolve // infinityfly Emby
 DOMAIN-SUFFIX,1024.name,Emby Proxy // 西瓜 Emby
 DOMAIN-SUFFIX,sr.809688.xyz,Emby Proxy // ciji Emby
-DOMAIN-SUFFIX,tv.811861.xyz,Emby Proxy // AWA Emby
+DOMAIN-SUFFIX,emby.awatv.de,Emby Proxy // AWA Emby
 DOMAIN-SUFFIX,hka-emby.aliz.work,Emby Proxy // hka Emby
 DOMAIN-SUFFIX,cf.567996.xyz,Emby Proxy // Pineapple Emby
+DOMAIN-SUFFIX,emby,my,Emby Proxy // 月饼 Emby
