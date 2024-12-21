@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,drei.bgka.me,Emby Proxy // 不给看 Emby
 DOMAIN-SUFFIX,s3.bgka.me,Emby Proxy // 不给看 Emby
 DOMAIN-SUFFIX,cf.gtlx.org,Emby Proxy // 垃圾影音 Emby
 DOMAIN-SUFFIX,cf.imetyou.top,Emby Proxy // Paul Emby
-DOMAIN-SUFFIX,789.123456.al,Emby Proxy // Tree Emby
 IP-CIDR,146.56.36.1/32,Emby Proxy,no-resolve // Des Emby
 IP-CIDR,193.123.67.207/32,Emby Proxy,no-resolve // Des Emby
 IP-CIDR,185.126.80.94/32,Emby Proxy,no-resolve // Des Emby
